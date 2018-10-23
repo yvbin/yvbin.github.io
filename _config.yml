@@ -1,6 +1,6 @@
 # Site settings
 title: Bin Blog
-SEOTitle: 斌的博客 | BIN Blog
+SEOTitle: 斌的博客 | Bin Blog
 header-img: img/post-bg-desk.jpg
 email: china.jinyubin@gmail.com
 description: "Do one thing at a time, and do well."
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: 49e889d0a9b11f83a065                            #生成的clientID
+  clientSecret: 29e984849ccc7c42ac54ca69b98b9e189a8df187    #生成的clientSecret
+  repo: yvbin.github.io    #仓库名称
+  owner: yvbin    #github用户名
+  admin: yvbin
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
