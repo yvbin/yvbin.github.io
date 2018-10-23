@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: china.jinyubin@gmail.com
 description: "Do one thing at a time, and do well."
 keyword: "JYB,JYB Blog,金雨斌的博客,jinyubin,金雨斌"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "http://yvbin.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/yvbin/yvbin.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -23,7 +23,7 @@ zhihu_username:     gai-lun-27-23
 github_username:    yvbin
 facebook_username:  china.jinyubin
 #jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+#twitter_username:   
 
 
 
@@ -99,16 +99,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "西安交通大学",
+        href: "http://www.xjtu.edu.cn/"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "欠驱动机器人",
+        href: "https://www.bilibili.com/video/av19764184"
     }
 ]
